@@ -1,0 +1,3 @@
+https://github.com/speakeasy/CopyCat
+
+This is a Java port of CopyCat I am working with. The original Java port was made as an applet which has some issues running on some systems (E.g. Iceweasel with outdated Java) and I decided to make a JAR project. This project requires Maven 2 or 3 to build. It was built with Maven 3 so this is recommended. Eventually I plan on being able to port in SeqSee to the project. Thanks for looking!
