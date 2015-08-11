@@ -1,6 +1,5 @@
 package org.speakeasy.copycat;
 
-import org.speakeasy.copycat.Replacement;
 import java.util.*;
 import java.applet.*;
 import java.awt.*;
